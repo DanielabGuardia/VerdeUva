@@ -1,0 +1,8 @@
+/* {
+    box-sizing: border-box; /* tamaño-de-caja: caja-borde 
+} */
+
+body { /* cuerpo*/
+   background-color: aquamarine; /* color-de-fondo: aguamarina */
+   font-family:  sans-serif;
+}
