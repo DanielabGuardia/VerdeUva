@@ -3,7 +3,7 @@ const path = require('path');
 const app = express();
 const PORT = 5000;
 
-let homeRouter = require('./routes/home');
+const homeRouter = require('./routes/homeRouter')
 
 
 app.use(express.static('./public'));
